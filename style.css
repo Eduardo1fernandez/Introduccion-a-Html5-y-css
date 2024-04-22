@@ -1,0 +1,80 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  background-color: blue;
+}
+body{
+  width: 70%;
+  background-color: blue;
+  margin: 0 auto;
+}
+
+h1{
+font-size: 20px;
+color: gold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: center;
+
+}
+img{
+width: 25%;
+margin: auto;
+border-radius: 50%;
+border: 5px solid yellow;
+display: flex;
+align-items: center;
+}
+
+
+p{
+font-size: 20px;
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+.parrafo1{
+font-size: 20px;
+color: yellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+.parrafo2,ol{
+font-size: 20px;
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+.parrafo3{
+font-size: 20px;
+color: greenyellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 800;
+margin: 10px;
+padding: 5px;
+text-align: justify;
+
+}
+
+
+#parrafo4{
+font-size: 20px;
+color: white
